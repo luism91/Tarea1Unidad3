@@ -12,23 +12,13 @@ package Problema3;
 public class P3 {
     
      public static void main(String[] args) {
-
-
-         int j = 2;
          int k=0;
 
             for (int i = 0; i <= 100; i++) {
-                
-                k=i%j;
-                
+                k=i%2;
                 if (k==0) {
                     System.out.println(i);
-                } 
-                
-                
+                }   
             }
-            
-            
         }
-    
 }
