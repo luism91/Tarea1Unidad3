@@ -1,2 +1,2 @@
 # Tarea1Unidad3
-52 problemas
+Favor de correr cada archivo por separado con SHIFT+F6 si es que se está en Netbeans.
